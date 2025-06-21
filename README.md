@@ -1,15 +1,11 @@
 👀 A passionate and self-motivated Computer Science graduate from COMSATS University, currently seeking .NET development internship opportunities  
 <br/>
-
 🌱 Skilled in C#, .NET Core, MVC, SQL Server, HTML, CSS, and Python with hands-on experience in academic projects  
 <br/>
-
 🚀 Aspiring to become a professional .NET Developer focused on building scalable enterprise applications  
 <br/>
-
 💡 Final Year Project: Developed a **Crop Yield Prediction System** using machine learning models to assist farmers in better planning  
 <br/>
-
 📫 Reach me at: devusman313@gmail.com  
 <br/>
 
